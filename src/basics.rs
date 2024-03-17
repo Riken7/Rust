@@ -1,5 +1,6 @@
 use std::io; 
 fn main() {
+    //checkout notion notes!
     println!("Hello, world!");
 
     let mut guess = String::new();
